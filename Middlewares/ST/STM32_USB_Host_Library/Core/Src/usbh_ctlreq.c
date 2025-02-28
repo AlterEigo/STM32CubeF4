@@ -17,6 +17,7 @@
   */
 
 /* Includes ------------------------------------------------------------------*/
+#include "stm32f4xx_ll_usb.h"
 #include "usbh_ctlreq.h"
 
 /** @addtogroup USBH_LIB
